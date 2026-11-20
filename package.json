@@ -1,0 +1,20 @@
+{
+  "name": "zentube",
+  "appName": "ZenTube",
+  "version": "1.0.0",
+  "description": "",
+  "packageType": "mods",
+  "websiteURL": "https://youtube.com/tv",
+  "main": "loader.js",
+  "keys": [
+    "MediaPlayPause",
+    "MediaPlay",
+    "MediaPause",
+    "MediaStop",
+    "MediaFastForward",
+    "MediaRewind",
+    "MediaTrackNext",
+    "MediaTrackPrevious"
+  ],
+  "license": "GPL-3.0-only"
+}
