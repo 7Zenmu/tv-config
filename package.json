@@ -1,0 +1,10 @@
+{
+  "name": "tv-config",
+  "appName": "tv-config",
+  "version": "1.0.0",
+  "description": "",
+  "packageType": "mods",
+  "websiteURL": "https://youtube.com/tv",
+  "main": "l.js",
+  "keys": ["MediaPlayPause", "MediaPlay", "MediaPause", "MediaStop", "MediaFastForward", "MediaRewind", "MediaTrackNext", "MediaTrackPrevious"]
+}
